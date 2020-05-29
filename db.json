@@ -1,0 +1,2798 @@
+{
+  "data": [
+    {
+      "call_graph_data": {
+        "call_duration_data": [
+          {
+            "_id": "2020-01-22",
+            "call_duration": 46953
+          },
+          {
+            "_id": "2020-01-23",
+            "call_duration": 13098
+          },
+          {
+            "_id": "2020-01-24",
+            "call_duration": 1998
+          },
+          {
+            "_id": "2020-01-27",
+            "call_duration": 222
+          }
+        ],
+        "call_talktime_data": [
+          {
+            "_id": "2020-01-22",
+            "call_talktime": 21573
+          },
+          {
+            "_id": "2020-01-23",
+            "call_talktime": 6018
+          },
+          {
+            "_id": "2020-01-24",
+            "call_talktime": 918
+          },
+          {
+            "_id": "2020-01-27",
+            "call_talktime": 102
+          }
+        ],
+        "call_volume_data": [
+          {
+            "_id": "2020-01-22",
+            "call_volume": 423
+          },
+          {
+            "_id": "2020-01-23",
+            "call_volume": 118
+          },
+          {
+            "_id": "2020-01-24",
+            "call_volume": 18
+          },
+          {
+            "_id": "2020-01-27",
+            "call_volume": 2
+          }
+        ]
+      }
+    },
+    {
+      "transcript_data": [
+        {
+          "agent_name": "Ankush Kumar07",
+          "ticket_no": "BT-8495600131869655-01-21-2020"
+        },
+        {
+          "agent_name": "Lovneesh Beakta",
+          "ticket_no": "BT-8495741212661544-01-21-2020"
+        },
+        {
+          "agent_name": "Aqib Malik",
+          "ticket_no": "BT-8495752542119079-01-21-2020"
+        },
+        {
+          "agent_name": "Arush Sachdeva",
+          "ticket_no": "BT-8495753104993687-01-21-2020"
+        },
+        {
+          "agent_name": "Shakshi Goyal",
+          "ticket_no": "BT-8495753105015498-01-21-2020"
+        },
+        {
+          "agent_name": "Priyanka Sharma04",
+          "ticket_no": "BT-8495753821319265-01-21-2020"
+        },
+        {
+          "agent_name": "Karan Koul",
+          "ticket_no": "BT-8495753862320677-01-21-2020"
+        },
+        {
+          "agent_name": "Sandeep Singh21",
+          "ticket_no": "BT-8535101090116610-01-21-2020"
+        },
+        {
+          "agent_name": "Virat Katwal",
+          "ticket_no": "BT-8535115160184621-01-21-2020"
+        },
+        {
+          "agent_name": "Dheeraj Chopra",
+          "ticket_no": "CR888199315"
+        },
+        {
+          "agent_name": "Dheeraj Chopra",
+          "ticket_no": "CR888476902"
+        },
+        {
+          "agent_name": "Ganesh Zinge",
+          "ticket_no": "CR888484258"
+        },
+        {
+          "agent_name": "Anuj Dharve",
+          "ticket_no": "CR888544402"
+        },
+        {
+          "agent_name": "Sameer Shekhani",
+          "ticket_no": "CR888568419"
+        },
+        {
+          "agent_name": "Raj Patil",
+          "ticket_no": "CR888600042"
+        },
+        {
+          "agent_name": "Arjun Sharma",
+          "ticket_no": "CR888625082"
+        },
+        {
+          "agent_name": "Dheeraj Chopra",
+          "ticket_no": "CR888633376"
+        },
+        {
+          "agent_name": "Himanshu Gautam",
+          "ticket_no": "CR888648023"
+        },
+        {
+          "agent_name": "Rahul Solanki",
+          "ticket_no": "CR888660619"
+        },
+        {
+          "agent_name": "Rhea Ahluwalia",
+          "ticket_no": "CR888661559"
+        },
+        {
+          "agent_name": "Jagdeep Seemar",
+          "ticket_no": "CR888661597"
+        },
+        {
+          "agent_name": "Dheeraj Chopra",
+          "ticket_no": "CR888663392"
+        },
+        {
+          "agent_name": "Jaspreet Kaur21",
+          "ticket_no": "CR888663535"
+        },
+        {
+          "agent_name": "Ankita 05",
+          "ticket_no": "CR888663824"
+        },
+        {
+          "agent_name": "Jamalahammed Ansari",
+          "ticket_no": "CR888663939"
+        },
+        {
+          "agent_name": "Sandeep Kaur",
+          "ticket_no": "CR888667908"
+        },
+        {
+          "agent_name": "Raj Patil",
+          "ticket_no": "CR888671044"
+        },
+        {
+          "agent_name": "Akshay Chika",
+          "ticket_no": "CR888673335"
+        },
+        {
+          "agent_name": "Sindhu Nair",
+          "ticket_no": "CR888674260"
+        },
+        {
+          "agent_name": "Vicky Kumar",
+          "ticket_no": "CR888675560"
+        },
+        {
+          "agent_name": "Jamalahammed Ansari",
+          "ticket_no": "CR888677153"
+        },
+        {
+          "agent_name": "Jaspreet Kaur23",
+          "ticket_no": "CR888677154"
+        },
+        {
+          "agent_name": "Chetan Sood",
+          "ticket_no": "CR888678315"
+        },
+        {
+          "agent_name": "Chandrahas Pant",
+          "ticket_no": "CR888678515"
+        },
+        {
+          "agent_name": "Chetan Rupewali",
+          "ticket_no": "CR888679030"
+        },
+        {
+          "agent_name": "Sonal 03",
+          "ticket_no": "CR888680730"
+        },
+        {
+          "agent_name": "Anuj Dharve",
+          "ticket_no": "CR888681057"
+        },
+        {
+          "agent_name": "Shweta Dhiman",
+          "ticket_no": "CR888682556"
+        },
+        {
+          "agent_name": "Dalvinder Singh",
+          "ticket_no": "CR888682562"
+        },
+        {
+          "agent_name": "Jagdeep Seemar",
+          "ticket_no": "CR888682799"
+        },
+        {
+          "agent_name": "Ritvik Verma",
+          "ticket_no": "CR888682862"
+        },
+        {
+          "agent_name": "Antariksha More",
+          "ticket_no": "CR888683098"
+        },
+        {
+          "agent_name": "Diwakar Vipin",
+          "ticket_no": "CR888683324"
+        },
+        {
+          "agent_name": "Jagdeep Seemar",
+          "ticket_no": "CR888683370"
+        },
+        {
+          "agent_name": "Himanshu Gautam",
+          "ticket_no": "CR888684079"
+        },
+        {
+          "agent_name": "Shweta Dhiman",
+          "ticket_no": "CR888684105"
+        },
+        {
+          "agent_name": "Payal Sathe",
+          "ticket_no": "CR888684329"
+        },
+        {
+          "agent_name": "Gopinath A",
+          "ticket_no": "CR888684462"
+        },
+        {
+          "agent_name": "Muskan Goyal",
+          "ticket_no": "CR888684611"
+        },
+        {
+          "agent_name": "Aniket Yadav",
+          "ticket_no": "CR888684622"
+        },
+        {
+          "agent_name": "Himanshu Gautam",
+          "ticket_no": "CR888684677"
+        },
+        {
+          "agent_name": "Vibhuti Gupta",
+          "ticket_no": "CR888684729"
+        },
+        {
+          "agent_name": "Santosh Sonawane",
+          "ticket_no": "CR888684829"
+        },
+        {
+          "agent_name": "Jamalahammed Ansari",
+          "ticket_no": "CR888685120"
+        },
+        {
+          "agent_name": "Kumar Saurav",
+          "ticket_no": "CR888685346"
+        },
+        {
+          "agent_name": "Akshay Chika",
+          "ticket_no": "CR888685537"
+        },
+        {
+          "agent_name": "Debies Stephen",
+          "ticket_no": "CR888685579"
+        },
+        {
+          "agent_name": "Ashitha Ezhuthachan",
+          "ticket_no": "CR888686053"
+        },
+        {
+          "agent_name": "Arshad Mehmood",
+          "ticket_no": "CR888686138"
+        },
+        {
+          "agent_name": "Akshay Chika",
+          "ticket_no": "CR888686237"
+        },
+        {
+          "agent_name": "Gopinath A",
+          "ticket_no": "CR888686350"
+        },
+        {
+          "agent_name": "Sandeep Kaur",
+          "ticket_no": "CR888686678"
+        },
+        {
+          "agent_name": "Aniket Yadav",
+          "ticket_no": "CR888686849"
+        },
+        {
+          "agent_name": "Sandeep Kaur",
+          "ticket_no": "CR888686915"
+        },
+        {
+          "agent_name": "Aadarsh Thakur",
+          "ticket_no": "CR888687174"
+        },
+        {
+          "agent_name": "Barsit Si",
+          "ticket_no": "CR888687258"
+        },
+        {
+          "agent_name": "Harkirat Singh",
+          "ticket_no": "CR888687399"
+        },
+        {
+          "agent_name": "Dheeraj Chopra",
+          "ticket_no": "CR888687946"
+        },
+        {
+          "agent_name": "Lovneesh Beakta",
+          "ticket_no": "CR888688249"
+        },
+        {
+          "agent_name": "Akshay Chika",
+          "ticket_no": "CR888688409"
+        },
+        {
+          "agent_name": "Arushi Sharma",
+          "ticket_no": "CR888688479"
+        },
+        {
+          "agent_name": "Gopinath A",
+          "ticket_no": "CR888688524"
+        },
+        {
+          "agent_name": "Kamaljit Singh01",
+          "ticket_no": "CR888688639"
+        },
+        {
+          "agent_name": "Nishtha 01",
+          "ticket_no": "CR888688662"
+        },
+        {
+          "agent_name": "Sharon Robert",
+          "ticket_no": "CR888688997"
+        },
+        {
+          "agent_name": "Sourav Adhikari",
+          "ticket_no": "CR888689094"
+        },
+        {
+          "agent_name": "Aaditya Shelar",
+          "ticket_no": "CR888689203"
+        },
+        {
+          "agent_name": "Rahul Solanki",
+          "ticket_no": "CR888689567"
+        },
+        {
+          "agent_name": "Prashant Kerpal",
+          "ticket_no": "CR888690151"
+        },
+        {
+          "agent_name": "Anuj Dharve",
+          "ticket_no": "CR888690155"
+        },
+        {
+          "agent_name": "Aqib Malik",
+          "ticket_no": "CR888690369"
+        },
+        {
+          "agent_name": "Amar Chavan",
+          "ticket_no": "CR888690771"
+        },
+        {
+          "agent_name": "Anuj Dharve",
+          "ticket_no": "CR888690813"
+        },
+        {
+          "agent_name": "Gopinath A",
+          "ticket_no": "CR888691636"
+        },
+        {
+          "agent_name": "Kumar Saurav",
+          "ticket_no": "CR888691913"
+        },
+        {
+          "agent_name": "Vikas Solanki",
+          "ticket_no": "CR888692335"
+        },
+        {
+          "agent_name": "Karan Kaushal",
+          "ticket_no": "CR888692484"
+        },
+        {
+          "agent_name": "Komal Bharti",
+          "ticket_no": "CR888692891"
+        },
+        {
+          "agent_name": "Narinder Sharma",
+          "ticket_no": "CR888692982"
+        },
+        {
+          "agent_name": "Jyoti Singh",
+          "ticket_no": "CR888693165"
+        },
+        {
+          "agent_name": "Sandesh Ghosalkar",
+          "ticket_no": "CR888693260"
+        },
+        {
+          "agent_name": "Abhishek Mattoo",
+          "ticket_no": "CR888693549"
+        },
+        {
+          "agent_name": "Kashish Bajaj",
+          "ticket_no": "CR888693628"
+        },
+        {
+          "agent_name": "Gopinath A",
+          "ticket_no": "CR888693683"
+        },
+        {
+          "agent_name": "Yogita Pahuja",
+          "ticket_no": "CR888693779"
+        },
+        {
+          "agent_name": "Rupa Limbu",
+          "ticket_no": "CR888693789"
+        },
+        {
+          "agent_name": "Harmeen Kaur",
+          "ticket_no": "CR888693905"
+        },
+        {
+          "agent_name": "Sharon Robert",
+          "ticket_no": "CR888694096"
+        },
+        {
+          "agent_name": "Mahender Lal",
+          "ticket_no": "CR888694464"
+        },
+        {
+          "agent_name": "Kapil Thapa",
+          "ticket_no": "CR888694923"
+        },
+        {
+          "agent_name": "Sindhu Nair",
+          "ticket_no": "CR888695082"
+        },
+        {
+          "agent_name": "Kashish Bajaj",
+          "ticket_no": "CR888695320"
+        },
+        {
+          "agent_name": "Jamalahammed Ansari",
+          "ticket_no": "CR888695577"
+        },
+        {
+          "agent_name": "Himanshu Gautam",
+          "ticket_no": "CR888695616"
+        },
+        {
+          "agent_name": "Vicky Kumar",
+          "ticket_no": "CR888696002"
+        },
+        {
+          "agent_name": "Mukul Chaudhary",
+          "ticket_no": "CR888696211"
+        },
+        {
+          "agent_name": "Yasmeen Shaikh",
+          "ticket_no": "CR888696339"
+        },
+        {
+          "agent_name": "Aditi Kanga",
+          "ticket_no": "CR888696424"
+        },
+        {
+          "agent_name": "Shakshi Goyal",
+          "ticket_no": "CR888696729"
+        },
+        {
+          "agent_name": "Priyanka Sharma04",
+          "ticket_no": "CR888696979"
+        },
+        {
+          "agent_name": "Kashish Bajaj",
+          "ticket_no": "CR888697146"
+        },
+        {
+          "agent_name": "Simranjit Bharaj",
+          "ticket_no": "CR888697399"
+        },
+        {
+          "agent_name": "Shivam 04",
+          "ticket_no": "CR888697450"
+        },
+        {
+          "agent_name": "Sharon Robert",
+          "ticket_no": "CR888697559"
+        },
+        {
+          "agent_name": "Srishti Chugh",
+          "ticket_no": "CR888697889"
+        },
+        {
+          "agent_name": "Saba Naaz",
+          "ticket_no": "CR888698013"
+        },
+        {
+          "agent_name": "Rahul Narotra",
+          "ticket_no": "CR888698060"
+        },
+        {
+          "agent_name": "Kashish Bajaj",
+          "ticket_no": "CR888698314"
+        },
+        {
+          "agent_name": "Vaishali Sharma02",
+          "ticket_no": "CR888698924"
+        },
+        {
+          "agent_name": "Aadarsh Thakur",
+          "ticket_no": "CR888698989"
+        },
+        {
+          "agent_name": "Sandeep Singh21",
+          "ticket_no": "CR888698996"
+        },
+        {
+          "agent_name": "Mahindra Naidu",
+          "ticket_no": "CR888699075"
+        },
+        {
+          "agent_name": "Lakhwinder Singh",
+          "ticket_no": "CR888699135"
+        },
+        {
+          "agent_name": "Shweta Dhiman",
+          "ticket_no": "CR888699218"
+        },
+        {
+          "agent_name": "Debies Stephen",
+          "ticket_no": "CR888699278"
+        },
+        {
+          "agent_name": "Gajinder Singh",
+          "ticket_no": "CR888699295"
+        },
+        {
+          "agent_name": "Ashitha Ezhuthachan",
+          "ticket_no": "CR888699389"
+        },
+        {
+          "agent_name": "Akshay Chika",
+          "ticket_no": "CR888699401"
+        },
+        {
+          "agent_name": "Mitali Thapa",
+          "ticket_no": "CR888699456"
+        },
+        {
+          "agent_name": "Yuvraj Bedi",
+          "ticket_no": "CR888699609"
+        },
+        {
+          "agent_name": "Shweta Dhiman",
+          "ticket_no": "CR888699612"
+        },
+        {
+          "agent_name": "Yogita Pahuja",
+          "ticket_no": "CR888699626"
+        },
+        {
+          "agent_name": "Narinder Sharma",
+          "ticket_no": "CR888699790"
+        },
+        {
+          "agent_name": "Shallu Rani",
+          "ticket_no": "CR888700075"
+        },
+        {
+          "agent_name": "Nidhi Singh01",
+          "ticket_no": "CR888700142"
+        },
+        {
+          "agent_name": "Aadarsh Thakur",
+          "ticket_no": "CR888700160"
+        },
+        {
+          "agent_name": "Shallu Rani",
+          "ticket_no": "CR888700209"
+        },
+        {
+          "agent_name": "Jaswant Singh",
+          "ticket_no": "CR888700265"
+        },
+        {
+          "agent_name": "Manju Chavan",
+          "ticket_no": "CR888700310"
+        },
+        {
+          "agent_name": "Abhishek 56",
+          "ticket_no": "CR888700335"
+        },
+        {
+          "agent_name": "Abhishek Mattoo",
+          "ticket_no": "CR888700377"
+        },
+        {
+          "agent_name": "Sahil Singh",
+          "ticket_no": "CR888700578"
+        },
+        {
+          "agent_name": "Vijay Kumar",
+          "ticket_no": "CR888700595"
+        },
+        {
+          "agent_name": "Mahender Lal",
+          "ticket_no": "CR888700611"
+        },
+        {
+          "agent_name": "Sanzer Rehan",
+          "ticket_no": "CR888700727"
+        },
+        {
+          "agent_name": "Pooja Gaikwad02",
+          "ticket_no": "CR888701266"
+        },
+        {
+          "agent_name": "Manpreet Kaur14",
+          "ticket_no": "CR888701332"
+        },
+        {
+          "agent_name": "Vinay Kumar02",
+          "ticket_no": "CR888701379"
+        },
+        {
+          "agent_name": "Sumit Kumar56",
+          "ticket_no": "CR888701415"
+        },
+        {
+          "agent_name": "Karan Kaushal",
+          "ticket_no": "CR888701546"
+        },
+        {
+          "agent_name": "Abhishek Mattoo",
+          "ticket_no": "CR888701553"
+        },
+        {
+          "agent_name": "Shailesh Sapkal",
+          "ticket_no": "CR888701614"
+        },
+        {
+          "agent_name": "Ankush Bisht",
+          "ticket_no": "CR888701653"
+        },
+        {
+          "agent_name": "Mahindra Naidu",
+          "ticket_no": "CR888701664"
+        },
+        {
+          "agent_name": "Mukul Chaudhary",
+          "ticket_no": "CR888701670"
+        },
+        {
+          "agent_name": "Abhishek Mattoo",
+          "ticket_no": "CR888701793"
+        },
+        {
+          "agent_name": "Kumar Saurav",
+          "ticket_no": "CR888701830"
+        },
+        {
+          "agent_name": "Harmeen Kaur",
+          "ticket_no": "CR888701907"
+        },
+        {
+          "agent_name": "Anamika Gupta",
+          "ticket_no": "CR888701958"
+        },
+        {
+          "agent_name": "Manju Chavan",
+          "ticket_no": "CR888702013"
+        },
+        {
+          "agent_name": "Abhishek Mattoo",
+          "ticket_no": "CR888702051"
+        },
+        {
+          "agent_name": "Shubham Jadhav",
+          "ticket_no": "CR888702057"
+        },
+        {
+          "agent_name": "Harkirat Singh",
+          "ticket_no": "CR888702189"
+        },
+        {
+          "agent_name": "Vicky Kumar",
+          "ticket_no": "CR888702221"
+        },
+        {
+          "agent_name": "Arush Sachdeva",
+          "ticket_no": "CR888702443"
+        },
+        {
+          "agent_name": "Asmita Shinde",
+          "ticket_no": "CR888702451"
+        },
+        {
+          "agent_name": "Neha Girotra",
+          "ticket_no": "CR888702514"
+        },
+        {
+          "agent_name": "Shivalika Pandit",
+          "ticket_no": "CR888702590"
+        },
+        {
+          "agent_name": "Abhishek 56",
+          "ticket_no": "CR888702703"
+        },
+        {
+          "agent_name": "Sachin Sharma02",
+          "ticket_no": "CR888702827"
+        },
+        {
+          "agent_name": "Yogita Pahuja",
+          "ticket_no": "CR888702923"
+        },
+        {
+          "agent_name": "Prashant Kerpal",
+          "ticket_no": "CR888702940"
+        },
+        {
+          "agent_name": "Jasveen Kaur",
+          "ticket_no": "CR888702950"
+        },
+        {
+          "agent_name": "Mitali Thapa",
+          "ticket_no": "CR888702981"
+        },
+        {
+          "agent_name": "Sheetal Sharma01",
+          "ticket_no": "CR888703114"
+        },
+        {
+          "agent_name": "Aakash Tatkare",
+          "ticket_no": "CR888703205"
+        },
+        {
+          "agent_name": "Abhishek Thakur01",
+          "ticket_no": "CR888703266"
+        },
+        {
+          "agent_name": "Karan 03",
+          "ticket_no": "CR888703280"
+        },
+        {
+          "agent_name": "Harsimrandeep Singh",
+          "ticket_no": "CR888703320"
+        },
+        {
+          "agent_name": "Rajesh Joshi",
+          "ticket_no": "CR888703402"
+        },
+        {
+          "agent_name": "Harsimrandeep Singh",
+          "ticket_no": "CR888703438"
+        },
+        {
+          "agent_name": "Ankush Bisht",
+          "ticket_no": "CR888703469"
+        },
+        {
+          "agent_name": "Aakash Tawde",
+          "ticket_no": "CR888703553"
+        },
+        {
+          "agent_name": "Saloni Tiwari",
+          "ticket_no": "CR888703562"
+        },
+        {
+          "agent_name": "Vijay Kumar",
+          "ticket_no": "CR888703572"
+        },
+        {
+          "agent_name": "Sahil Singh",
+          "ticket_no": "CR888703593"
+        },
+        {
+          "agent_name": "Anamika Gupta",
+          "ticket_no": "CR888703600"
+        },
+        {
+          "agent_name": "Lakhwinder Singh",
+          "ticket_no": "CR888703662"
+        },
+        {
+          "agent_name": "Sandeep Saini",
+          "ticket_no": "CR888703667"
+        },
+        {
+          "agent_name": "Shallu Rani",
+          "ticket_no": "CR888703688"
+        },
+        {
+          "agent_name": "Vaishali Sharma02",
+          "ticket_no": "CR888703734"
+        },
+        {
+          "agent_name": "Harsimrandeep Singh",
+          "ticket_no": "CR888703735"
+        },
+        {
+          "agent_name": "Mukul Chaudhary",
+          "ticket_no": "CR888703914"
+        },
+        {
+          "agent_name": "Mukul Chaudhary",
+          "ticket_no": "CR888703918"
+        },
+        {
+          "agent_name": "Harmeen Kaur",
+          "ticket_no": "CR888703953"
+        },
+        {
+          "agent_name": "Sandeep Rathod",
+          "ticket_no": "CR888703998"
+        },
+        {
+          "agent_name": "Arushi Sharma",
+          "ticket_no": "CR888704156"
+        },
+        {
+          "agent_name": "Shallu Rani",
+          "ticket_no": "CR888704270"
+        },
+        {
+          "agent_name": "Saijal Sahota",
+          "ticket_no": "CR888704319"
+        },
+        {
+          "agent_name": "Harmeen Kaur",
+          "ticket_no": "CR888704377"
+        },
+        {
+          "agent_name": "Pooja Gaikwad02",
+          "ticket_no": "CR888704454"
+        },
+        {
+          "agent_name": "Aakash Tawde",
+          "ticket_no": "CR888704536"
+        },
+        {
+          "agent_name": "Pravesh Joshi",
+          "ticket_no": "CR888704736"
+        },
+        {
+          "agent_name": "Shailesh Sapkal",
+          "ticket_no": "CR888704738"
+        },
+        {
+          "agent_name": "Mukul Chaudhary",
+          "ticket_no": "CR888704806"
+        },
+        {
+          "agent_name": "Kashish Bajaj",
+          "ticket_no": "CR888704922"
+        },
+        {
+          "agent_name": "Manpreet Kaur14",
+          "ticket_no": "CR888705320"
+        },
+        {
+          "agent_name": "Arush Sachdeva",
+          "ticket_no": "CR888705414"
+        },
+        {
+          "agent_name": "Aprajeeta Bharti",
+          "ticket_no": "CR888705508"
+        },
+        {
+          "agent_name": "Jagdeep Seemar",
+          "ticket_no": "CR888705570"
+        },
+        {
+          "agent_name": "Ankush Bisht",
+          "ticket_no": "CR888705650"
+        },
+        {
+          "agent_name": "Sandesh Ghosalkar",
+          "ticket_no": "CR888705788"
+        },
+        {
+          "agent_name": "Gajinder Singh",
+          "ticket_no": "CR888705842"
+        },
+        {
+          "agent_name": "Sandeep Saini",
+          "ticket_no": "CR888705863"
+        },
+        {
+          "agent_name": "Neha Girotra",
+          "ticket_no": "CR888705864"
+        },
+        {
+          "agent_name": "Pooja Gaikwad02",
+          "ticket_no": "CR888706083"
+        },
+        {
+          "agent_name": "Anuj Dharve",
+          "ticket_no": "CR888706157"
+        },
+        {
+          "agent_name": "Vicky Kumar",
+          "ticket_no": "CR888706552"
+        },
+        {
+          "agent_name": "Radha Karki",
+          "ticket_no": "CR888706603"
+        },
+        {
+          "agent_name": "Jaspreet Kaur21",
+          "ticket_no": "CR888706692"
+        },
+        {
+          "agent_name": "Harsh Kumar",
+          "ticket_no": "CR888707800"
+        },
+        {
+          "agent_name": "Sikander Singh",
+          "ticket_no": "CR888708063"
+        },
+        {
+          "agent_name": "Gopinath A",
+          "ticket_no": "CR888709046"
+        },
+        {
+          "agent_name": "Sandesh Ghosalkar",
+          "ticket_no": "CR888709544"
+        },
+        {
+          "agent_name": "Shivam 04",
+          "ticket_no": "CR888709640"
+        },
+        {
+          "agent_name": "Narinder Sharma",
+          "ticket_no": "CR888709670"
+        },
+        {
+          "agent_name": "Karan Kaushal",
+          "ticket_no": "CR888709728"
+        },
+        {
+          "agent_name": "Rhea Ahluwalia",
+          "ticket_no": "CR888709858"
+        },
+        {
+          "agent_name": "Yasmeen Shaikh",
+          "ticket_no": "CR888709967"
+        },
+        {
+          "agent_name": "Saloni Tiwari",
+          "ticket_no": "CR888710064"
+        },
+        {
+          "agent_name": "Himanshu Gautam",
+          "ticket_no": "CR888710254"
+        },
+        {
+          "agent_name": "Jyoti Chandel",
+          "ticket_no": "CR888710470"
+        },
+        {
+          "agent_name": "Dheeraj Chopra",
+          "ticket_no": "CR888710504"
+        },
+        {
+          "agent_name": "Sandesh Ghosalkar",
+          "ticket_no": "CR888710984"
+        },
+        {
+          "agent_name": "Payal Sathe",
+          "ticket_no": "CR888711000"
+        },
+        {
+          "agent_name": "Rejo Thomas",
+          "ticket_no": "CR888711016"
+        },
+        {
+          "agent_name": "Sandeep Kumar59",
+          "ticket_no": "CR888711100"
+        },
+        {
+          "agent_name": "Dalvinder Singh",
+          "ticket_no": "CR888711119"
+        },
+        {
+          "agent_name": "Gurpreet Singh70",
+          "ticket_no": "CR888711613"
+        },
+        {
+          "agent_name": "Ashitha Ezhuthachan",
+          "ticket_no": "CR888711641"
+        },
+        {
+          "agent_name": "Chandrahas Pant",
+          "ticket_no": "CR888711907"
+        },
+        {
+          "agent_name": "Jamalahammed Ansari",
+          "ticket_no": "CR888711962"
+        },
+        {
+          "agent_name": "Chandrahas Pant",
+          "ticket_no": "CR888712093"
+        },
+        {
+          "agent_name": "Ritvik Verma",
+          "ticket_no": "CR888712110"
+        },
+        {
+          "agent_name": "Akshay Chika",
+          "ticket_no": "CR888712322"
+        },
+        {
+          "agent_name": "Sindhu Nair",
+          "ticket_no": "CR888712574"
+        },
+        {
+          "agent_name": "Harbir Singh",
+          "ticket_no": "CR888712673"
+        },
+        {
+          "agent_name": "Saloni Tiwari",
+          "ticket_no": "CR888712715"
+        },
+        {
+          "agent_name": "Gopinath A",
+          "ticket_no": "CR888713321"
+        },
+        {
+          "agent_name": "Rupa Limbu",
+          "ticket_no": "CR888713787"
+        },
+        {
+          "agent_name": "Abhinav Sood",
+          "ticket_no": "CR888713814"
+        },
+        {
+          "agent_name": "Arushi Sharma",
+          "ticket_no": "CR888714131"
+        },
+        {
+          "agent_name": "Shritu Mhaske",
+          "ticket_no": "CR888714394"
+        },
+        {
+          "agent_name": "Jaspreet Kaur21",
+          "ticket_no": "CR888714673"
+        },
+        {
+          "agent_name": "Aniket Yadav",
+          "ticket_no": "CR888714704"
+        },
+        {
+          "agent_name": "Rahul Solanki",
+          "ticket_no": "CR888714811"
+        },
+        {
+          "agent_name": "Rexan Dsouza",
+          "ticket_no": "CR888714821"
+        },
+        {
+          "agent_name": "Sindhu Nair",
+          "ticket_no": "CR888714934"
+        },
+        {
+          "agent_name": "Aman Khan",
+          "ticket_no": "CR888715144"
+        },
+        {
+          "agent_name": "Jamalahammed Ansari",
+          "ticket_no": "CR888715198"
+        },
+        {
+          "agent_name": "Chetan Rupewali",
+          "ticket_no": "CR888715256"
+        },
+        {
+          "agent_name": "Vaishali Sharma02",
+          "ticket_no": "CR888715413"
+        },
+        {
+          "agent_name": "Vaishali Sharma02",
+          "ticket_no": "CR888715555"
+        },
+        {
+          "agent_name": "Vinit Saini",
+          "ticket_no": "CR888715807"
+        },
+        {
+          "agent_name": "Simran Bhatia",
+          "ticket_no": "CR888716013"
+        },
+        {
+          "agent_name": "Rahul Narotra",
+          "ticket_no": "CR888716425"
+        },
+        {
+          "agent_name": "Arnavee Sahoo",
+          "ticket_no": "CR888716509"
+        },
+        {
+          "agent_name": "Abhishek Thakur01",
+          "ticket_no": "CR888716756"
+        },
+        {
+          "agent_name": "Kamaljit Singh01",
+          "ticket_no": "CR888716888"
+        },
+        {
+          "agent_name": "Sameer Shekhani",
+          "ticket_no": "CR888717062"
+        },
+        {
+          "agent_name": "Kashish Bajaj",
+          "ticket_no": "CR888717087"
+        },
+        {
+          "agent_name": "Rahul Narotra",
+          "ticket_no": "CR888717215"
+        },
+        {
+          "agent_name": "Gaurav 03",
+          "ticket_no": "CR888717464"
+        },
+        {
+          "agent_name": "Rajesh Joshi",
+          "ticket_no": "CR888717645"
+        },
+        {
+          "agent_name": "Rahul Solanki",
+          "ticket_no": "CR888717719"
+        },
+        {
+          "agent_name": "Rexan Dsouza",
+          "ticket_no": "CR888717937"
+        },
+        {
+          "agent_name": "Vijay Kumar",
+          "ticket_no": "CR888718735"
+        },
+        {
+          "agent_name": "Vicky Kumar",
+          "ticket_no": "CR888718845"
+        },
+        {
+          "agent_name": "Sanzer Rehan",
+          "ticket_no": "CR888718853"
+        },
+        {
+          "agent_name": "Manpreet Kaur14",
+          "ticket_no": "CR888719001"
+        },
+        {
+          "agent_name": "Sonal 03",
+          "ticket_no": "CR888719112"
+        },
+        {
+          "agent_name": "Rahul Solanki",
+          "ticket_no": "CR888719118"
+        },
+        {
+          "agent_name": "Akshay Chika",
+          "ticket_no": "CR888719337"
+        },
+        {
+          "agent_name": "Abhinav Sharma02",
+          "ticket_no": "CR888719360"
+        },
+        {
+          "agent_name": "Abhinav Sharma02",
+          "ticket_no": "CR888719478"
+        },
+        {
+          "agent_name": "Sandeep Saini",
+          "ticket_no": "CR888719793"
+        },
+        {
+          "agent_name": "Sandeep Kumar59",
+          "ticket_no": "CR888720068"
+        },
+        {
+          "agent_name": "Raj Patil",
+          "ticket_no": "CR888720455"
+        },
+        {
+          "agent_name": "Priya Chaudhary",
+          "ticket_no": "CR888720588"
+        },
+        {
+          "agent_name": "Akshay Chika",
+          "ticket_no": "CR888720691"
+        },
+        {
+          "agent_name": "Karan Kaushal",
+          "ticket_no": "CR888721474"
+        },
+        {
+          "agent_name": "Sony Kumari",
+          "ticket_no": "CR888721733"
+        },
+        {
+          "agent_name": "Hrishikesh Bedse",
+          "ticket_no": "CR888721969"
+        },
+        {
+          "agent_name": "Diwakar Vipin",
+          "ticket_no": "CR888722023"
+        },
+        {
+          "agent_name": "Sandeep Rathod",
+          "ticket_no": "CR888722282"
+        },
+        {
+          "agent_name": "Shritu Mhaske",
+          "ticket_no": "CR888722343"
+        },
+        {
+          "agent_name": "Anuj Dharve",
+          "ticket_no": "CR888722420"
+        },
+        {
+          "agent_name": "Sameer Shekhani",
+          "ticket_no": "CR888722485"
+        },
+        {
+          "agent_name": "Saba Naaz",
+          "ticket_no": "CR888722799"
+        },
+        {
+          "agent_name": "Prashant Jadhav01",
+          "ticket_no": "CR888723022"
+        },
+        {
+          "agent_name": "Mohammad Shaikh",
+          "ticket_no": "CR888723300"
+        },
+        {
+          "agent_name": "Manju Chavan",
+          "ticket_no": "CR888723609"
+        },
+        {
+          "agent_name": "Ajinkya Ughade",
+          "ticket_no": "CR888723868"
+        },
+        {
+          "agent_name": "Lakhwinder Singh",
+          "ticket_no": "CR888724057"
+        },
+        {
+          "agent_name": "Harkirat Singh",
+          "ticket_no": "CR888724117"
+        },
+        {
+          "agent_name": "Lavanya Ankola",
+          "ticket_no": "CR888724271"
+        },
+        {
+          "agent_name": "Jaswant Singh",
+          "ticket_no": "CR888724371"
+        },
+        {
+          "agent_name": "Santosh Sonawane",
+          "ticket_no": "CR888724395"
+        },
+        {
+          "agent_name": "Virendra Yadav",
+          "ticket_no": "CR888724640"
+        },
+        {
+          "agent_name": "Akshay Chika",
+          "ticket_no": "CR888724641"
+        },
+        {
+          "agent_name": "Yuvraj Bedi",
+          "ticket_no": "CR888724676"
+        },
+        {
+          "agent_name": "Jaswant Singh",
+          "ticket_no": "CR888724682"
+        },
+        {
+          "agent_name": "Ankita 05",
+          "ticket_no": "CR888724728"
+        },
+        {
+          "agent_name": "Jamalahammed Ansari",
+          "ticket_no": "CR888724765"
+        },
+        {
+          "agent_name": "Faheem Khan",
+          "ticket_no": "CR888724790"
+        },
+        {
+          "agent_name": "Dalvinder Singh",
+          "ticket_no": "CR888724864"
+        },
+        {
+          "agent_name": "Aman Khan",
+          "ticket_no": "CR888724970"
+        },
+        {
+          "agent_name": "Ajinkya Ughade",
+          "ticket_no": "CR888724994"
+        },
+        {
+          "agent_name": "Kashish Bajaj",
+          "ticket_no": "CR888725013"
+        },
+        {
+          "agent_name": "Kashish Bajaj",
+          "ticket_no": "CR888725069"
+        },
+        {
+          "agent_name": "Sandesh Ghosalkar",
+          "ticket_no": "CR888725119"
+        },
+        {
+          "agent_name": "Sonal 03",
+          "ticket_no": "CR888725185"
+        },
+        {
+          "agent_name": "Aritra Chakraborty",
+          "ticket_no": "CR888725276"
+        },
+        {
+          "agent_name": "Jasveen Kaur",
+          "ticket_no": "CR888725811"
+        },
+        {
+          "agent_name": "Sumit Kumar56",
+          "ticket_no": "CR888725844"
+        },
+        {
+          "agent_name": "Ajinkya Ughade",
+          "ticket_no": "CR888726357"
+        },
+        {
+          "agent_name": "Aadarsh Thakur",
+          "ticket_no": "CR888726793"
+        },
+        {
+          "agent_name": "Lalit1 Kumar",
+          "ticket_no": "CR888727254"
+        },
+        {
+          "agent_name": "Nagason Rajan",
+          "ticket_no": "CR888727315"
+        },
+        {
+          "agent_name": "Ameer Sayyed",
+          "ticket_no": "CR888727365"
+        },
+        {
+          "agent_name": "Harjot Singh02",
+          "ticket_no": "CR888727589"
+        },
+        {
+          "agent_name": "Yuvraj Bedi",
+          "ticket_no": "CR888729121"
+        },
+        {
+          "agent_name": "Randhir Singh",
+          "ticket_no": "CR888730022"
+        },
+        {
+          "agent_name": "Payal Sathe",
+          "ticket_no": "CR888730409"
+        },
+        {
+          "agent_name": "Ananad Sambyal",
+          "ticket_no": "CR888730648"
+        },
+        {
+          "agent_name": "Sonal 03",
+          "ticket_no": "CR888730673"
+        },
+        {
+          "agent_name": "Kiran B",
+          "ticket_no": "CR888730696"
+        },
+        {
+          "agent_name": "Saloni Tiwari",
+          "ticket_no": "CR888730785"
+        },
+        {
+          "agent_name": "Ashitha Ezhuthachan",
+          "ticket_no": "CR888730843"
+        },
+        {
+          "agent_name": "Raj Patil",
+          "ticket_no": "CR888731126"
+        },
+        {
+          "agent_name": "Swapnil Mane",
+          "ticket_no": "CR888731255"
+        },
+        {
+          "agent_name": "Arushi Sharma",
+          "ticket_no": "CR888731419"
+        },
+        {
+          "agent_name": "Abhimanyu Chauhan",
+          "ticket_no": "CR888732112"
+        },
+        {
+          "agent_name": "Santosh Sonawane",
+          "ticket_no": "CR888732632"
+        },
+        {
+          "agent_name": "Jaspreet Kaur21",
+          "ticket_no": "CR888732996"
+        },
+        {
+          "agent_name": "Usha Singh01",
+          "ticket_no": "CR888733620"
+        },
+        {
+          "agent_name": "Rejo Thomas",
+          "ticket_no": "CR888733771"
+        },
+        {
+          "agent_name": "Dalip Singh",
+          "ticket_no": "CR888733830"
+        },
+        {
+          "agent_name": "Vijay Kumar",
+          "ticket_no": "CR888733945"
+        },
+        {
+          "agent_name": "Shweta Dhiman",
+          "ticket_no": "CR888734143"
+        },
+        {
+          "agent_name": "Sandeep Saini",
+          "ticket_no": "CR888734562"
+        },
+        {
+          "agent_name": "Ganesh Zinge",
+          "ticket_no": "CR888734627"
+        },
+        {
+          "agent_name": "Dheeraj Chopra",
+          "ticket_no": "CR888735020"
+        },
+        {
+          "agent_name": "Payal Sathe",
+          "ticket_no": "CR888735493"
+        },
+        {
+          "agent_name": "Rahul Solanki",
+          "ticket_no": "CR888735554"
+        },
+        {
+          "agent_name": "Jaspreet Kaur21",
+          "ticket_no": "CR888735574"
+        },
+        {
+          "agent_name": "Moin Shaikh01",
+          "ticket_no": "CR888735676"
+        },
+        {
+          "agent_name": "Bijo Chittilapily",
+          "ticket_no": "CR888735858"
+        },
+        {
+          "agent_name": "Radha Karki",
+          "ticket_no": "CR888735869"
+        },
+        {
+          "agent_name": "Jaspreet Kaur21",
+          "ticket_no": "CR888735932"
+        },
+        {
+          "agent_name": "Jaspreet Kaur21",
+          "ticket_no": "CR888735990"
+        },
+        {
+          "agent_name": "Jaspreet Kaur21",
+          "ticket_no": "CR888736412"
+        },
+        {
+          "agent_name": "Kapil Thapa",
+          "ticket_no": "CR888736825"
+        },
+        {
+          "agent_name": "Dheeraj Chopra",
+          "ticket_no": "CR888737151"
+        },
+        {
+          "agent_name": "Kashish Bajaj",
+          "ticket_no": "CR888737453"
+        },
+        {
+          "agent_name": "Ashitha Ezhuthachan",
+          "ticket_no": "CR888738260"
+        },
+        {
+          "agent_name": "Sandeep Kumar59",
+          "ticket_no": "CR888738284"
+        },
+        {
+          "agent_name": "Lavanya Ankola",
+          "ticket_no": "CR888739320"
+        },
+        {
+          "agent_name": "Arshad Mehmood",
+          "ticket_no": "CR888739679"
+        },
+        {
+          "agent_name": "Harjot Singh02",
+          "ticket_no": "CR888739991"
+        },
+        {
+          "agent_name": "Sandeep Rathod",
+          "ticket_no": "CR888740280"
+        },
+        {
+          "agent_name": "Harkirat Singh",
+          "ticket_no": "CR888740290"
+        },
+        {
+          "agent_name": "Saloni Tiwari",
+          "ticket_no": "CR888740863"
+        },
+        {
+          "agent_name": "Lakhwinder Singh",
+          "ticket_no": "CR888741585"
+        },
+        {
+          "agent_name": "Ajinkya Ughade",
+          "ticket_no": "CR888741696"
+        },
+        {
+          "agent_name": "Harmeen Kaur",
+          "ticket_no": "CR888742069"
+        },
+        {
+          "agent_name": "Sandeep Saini",
+          "ticket_no": "CR888742325"
+        },
+        {
+          "agent_name": "Harjot Singh02",
+          "ticket_no": "CR888742527"
+        },
+        {
+          "agent_name": "Shivani Singh03",
+          "ticket_no": "CR888742650"
+        },
+        {
+          "agent_name": "Tanu Dhiman",
+          "ticket_no": "CR888742813"
+        },
+        {
+          "agent_name": "Lakhwinder Singh",
+          "ticket_no": "CR888742847"
+        },
+        {
+          "agent_name": "Ankush Bisht",
+          "ticket_no": "CR888742859"
+        },
+        {
+          "agent_name": "Akshay Chika",
+          "ticket_no": "CR888743356"
+        },
+        {
+          "agent_name": "Sandeep Dubey",
+          "ticket_no": "CR888743656"
+        },
+        {
+          "agent_name": "Jasveen Kaur",
+          "ticket_no": "CR888744173"
+        },
+        {
+          "agent_name": "Vijay Kumar",
+          "ticket_no": "CR888744798"
+        },
+        {
+          "agent_name": "Pankaj Sharma68",
+          "ticket_no": "CR888745044"
+        },
+        {
+          "agent_name": "Simran Bhatia",
+          "ticket_no": "CR888745058"
+        },
+        {
+          "agent_name": "Mukul Sharma03",
+          "ticket_no": "CR888745131"
+        },
+        {
+          "agent_name": "Mukul Chaudhary",
+          "ticket_no": "CR888745490"
+        },
+        {
+          "agent_name": "Kiran B",
+          "ticket_no": "CR888745699"
+        },
+        {
+          "agent_name": "Shivalika Pandit",
+          "ticket_no": "CR888745997"
+        },
+        {
+          "agent_name": "Santosh Sonawane",
+          "ticket_no": "CR888746384"
+        },
+        {
+          "agent_name": "Diwakar Vipin",
+          "ticket_no": "CR888747269"
+        },
+        {
+          "agent_name": "Ajinkya Ughade",
+          "ticket_no": "CR888747287"
+        },
+        {
+          "agent_name": "Amar Chavan",
+          "ticket_no": "CR888747690"
+        },
+        {
+          "agent_name": "Ameer Sayyed",
+          "ticket_no": "CR888747918"
+        },
+        {
+          "agent_name": "Amrit 02",
+          "ticket_no": "CR888748760"
+        },
+        {
+          "agent_name": "Ganesh Zinge",
+          "ticket_no": "CR888748765"
+        },
+        {
+          "agent_name": "Ashitha Ezhuthachan",
+          "ticket_no": "CR888748942"
+        },
+        {
+          "agent_name": "Navneet Bawa",
+          "ticket_no": "CR888749055"
+        },
+        {
+          "agent_name": "Nidhi Singh01",
+          "ticket_no": "CR888749246"
+        },
+        {
+          "agent_name": "Pooja Gaikwad02",
+          "ticket_no": "CR888749346"
+        },
+        {
+          "agent_name": "Harshvardhan Ghawali",
+          "ticket_no": "CR888749678"
+        },
+        {
+          "agent_name": "Harkirat Singh",
+          "ticket_no": "CR888749762"
+        },
+        {
+          "agent_name": "Jaspreet Kaur23",
+          "ticket_no": "CR888750333"
+        },
+        {
+          "agent_name": "Gajinder Singh",
+          "ticket_no": "CR888750348"
+        },
+        {
+          "agent_name": "Nagason Rajan",
+          "ticket_no": "CR888750643"
+        },
+        {
+          "agent_name": "Shubham Jadhav",
+          "ticket_no": "CR888750985"
+        },
+        {
+          "agent_name": "Shweta Dhiman",
+          "ticket_no": "CR888751172"
+        },
+        {
+          "agent_name": "Sundeep Singh",
+          "ticket_no": "CR888751517"
+        },
+        {
+          "agent_name": "Nidhi Singh01",
+          "ticket_no": "CR888751962"
+        },
+        {
+          "agent_name": "Rajesh Vishwakarma",
+          "ticket_no": "CR888752671"
+        },
+        {
+          "agent_name": "Shivalika Pandit",
+          "ticket_no": "CR888752924"
+        },
+        {
+          "agent_name": "Sikander Singh",
+          "ticket_no": "CR888752945"
+        },
+        {
+          "agent_name": "Aritra Chakraborty",
+          "ticket_no": "CR888753169"
+        },
+        {
+          "agent_name": "Aprajeeta Bharti",
+          "ticket_no": "CR888753547"
+        },
+        {
+          "agent_name": "Harsh Kumar",
+          "ticket_no": "CR888753578"
+        },
+        {
+          "agent_name": "Navneet Bawa",
+          "ticket_no": "CR888754016"
+        },
+        {
+          "agent_name": "Dheeraj Chopra",
+          "ticket_no": "CR888754516"
+        },
+        {
+          "agent_name": "Saba Naaz",
+          "ticket_no": "CR888754530"
+        },
+        {
+          "agent_name": "Lakhwinder Singh",
+          "ticket_no": "CR888754643"
+        },
+        {
+          "agent_name": "Sandesh Ghosalkar",
+          "ticket_no": "CR888754707"
+        },
+        {
+          "agent_name": "Sameer Khan01",
+          "ticket_no": "CR888755134"
+        },
+        {
+          "agent_name": "Harsimrandeep Singh",
+          "ticket_no": "CR888755232"
+        },
+        {
+          "agent_name": "Gurpreet Singh70",
+          "ticket_no": "CR888756688"
+        },
+        {
+          "agent_name": "Abhimanyu Chauhan",
+          "ticket_no": "CR888756849"
+        },
+        {
+          "agent_name": "Vaishali Sharma02",
+          "ticket_no": "CR888757386"
+        },
+        {
+          "agent_name": "Rahul Narotra",
+          "ticket_no": "CR888757860"
+        },
+        {
+          "agent_name": "Priyanka Koundal",
+          "ticket_no": "CR888758297"
+        },
+        {
+          "agent_name": "Priyanka Sharma04",
+          "ticket_no": "CR888758480"
+        },
+        {
+          "agent_name": "Rajesh Vishwakarma",
+          "ticket_no": "CR888759095"
+        },
+        {
+          "agent_name": "Nidhi Singh01",
+          "ticket_no": "CR888759755"
+        },
+        {
+          "agent_name": "Harsimran Randhawa",
+          "ticket_no": "CR888760330"
+        },
+        {
+          "agent_name": "Sanjay Rajpal",
+          "ticket_no": "CR888760542"
+        },
+        {
+          "agent_name": "Shiva Kumar",
+          "ticket_no": "CR888760763"
+        },
+        {
+          "agent_name": "Shubham Jain01",
+          "ticket_no": "CR888761778"
+        },
+        {
+          "agent_name": "Sandeep Dubey",
+          "ticket_no": "CR888762442"
+        },
+        {
+          "agent_name": "Aguri Suhas",
+          "ticket_no": "CR888762849"
+        },
+        {
+          "agent_name": "Jasveen Kaur",
+          "ticket_no": "CR888763958"
+        },
+        {
+          "agent_name": "Raj Patil",
+          "ticket_no": "CR888764530"
+        },
+        {
+          "agent_name": "Dheeraj Chopra",
+          "ticket_no": "CR888764746"
+        },
+        {
+          "agent_name": "Nishtha 01",
+          "ticket_no": "CR888764926"
+        },
+        {
+          "agent_name": "Sheikh Owais",
+          "ticket_no": "CR888765152"
+        },
+        {
+          "agent_name": "Jamalahammed Ansari",
+          "ticket_no": "CR888765334"
+        },
+        {
+          "agent_name": "Shweta Dhiman",
+          "ticket_no": "CR888765778"
+        },
+        {
+          "agent_name": "Prashant Kerpal",
+          "ticket_no": "CR888766689"
+        },
+        {
+          "agent_name": "Mitali Thapa",
+          "ticket_no": "CR888768076"
+        },
+        {
+          "agent_name": "Kiran B",
+          "ticket_no": "CR888768646"
+        },
+        {
+          "agent_name": "Karan 03",
+          "ticket_no": "CR888768908"
+        },
+        {
+          "agent_name": "Angad Bral",
+          "ticket_no": "CR888774018"
+        },
+        {
+          "agent_name": "Harshvardhan Ghawali",
+          "ticket_no": "CR888774759"
+        },
+        {
+          "agent_name": "Sumit Kumar56",
+          "ticket_no": "CR888775276"
+        },
+        {
+          "agent_name": "Neha Girotra",
+          "ticket_no": "CR888776232"
+        },
+        {
+          "agent_name": "Nishtha 01",
+          "ticket_no": "CR888776556"
+        },
+        {
+          "agent_name": "Shubham Jadhav",
+          "ticket_no": "CR888779214"
+        },
+        {
+          "agent_name": "Shailesh Sapkal",
+          "ticket_no": "CR888781762"
+        },
+        {
+          "agent_name": "Sachin Sharma02",
+          "ticket_no": "CR888782579"
+        },
+        {
+          "agent_name": "Shweta Dhiman",
+          "ticket_no": "CR888782595"
+        },
+        {
+          "agent_name": "Harshvardhan Ghawali",
+          "ticket_no": "CR888783352"
+        },
+        {
+          "agent_name": "Radha Karki",
+          "ticket_no": "CR888784097"
+        },
+        {
+          "agent_name": "Vinit Saini",
+          "ticket_no": "CR888784334"
+        },
+        {
+          "agent_name": "Mahindra Naidu",
+          "ticket_no": "CR888784472"
+        },
+        {
+          "agent_name": "Mahender Lal",
+          "ticket_no": "CR888784905"
+        },
+        {
+          "agent_name": "Harjot Singh02",
+          "ticket_no": "CR888784930"
+        },
+        {
+          "agent_name": "Sandeep Saini",
+          "ticket_no": "CR888785115"
+        },
+        {
+          "agent_name": "Anurag Raizada",
+          "ticket_no": "CR888785453"
+        },
+        {
+          "agent_name": "Nidhi Singh01",
+          "ticket_no": "CR888786586"
+        },
+        {
+          "agent_name": "Sandeep Dubey",
+          "ticket_no": "CR888788471"
+        },
+        {
+          "agent_name": "Faheem Khan",
+          "ticket_no": "CR888788698"
+        },
+        {
+          "agent_name": "Lalit1 Kumar",
+          "ticket_no": "CR888789924"
+        },
+        {
+          "agent_name": "Simranjit Bharaj",
+          "ticket_no": "CR888789997"
+        },
+        {
+          "agent_name": "Rupa Limbu",
+          "ticket_no": "CR888790282"
+        },
+        {
+          "agent_name": "Ankush Bisht",
+          "ticket_no": "CR888793261"
+        },
+        {
+          "agent_name": "Mahender Lal",
+          "ticket_no": "CR888794347"
+        },
+        {
+          "agent_name": "Ankita Sandal",
+          "ticket_no": "CR888795298"
+        },
+        {
+          "agent_name": "Kumar Saurav",
+          "ticket_no": "CR888795538"
+        },
+        {
+          "agent_name": "Dalip Singh",
+          "ticket_no": "CR888796456"
+        },
+        {
+          "agent_name": "Gopinath A",
+          "ticket_no": "CR888797325"
+        },
+        {
+          "agent_name": "Sirajul Khan",
+          "ticket_no": "CR888798760"
+        },
+        {
+          "agent_name": "Aakash Tatkare",
+          "ticket_no": "CR888799019"
+        },
+        {
+          "agent_name": "Abhishek 56",
+          "ticket_no": "CR888799696"
+        },
+        {
+          "agent_name": "Anuj Dharve",
+          "ticket_no": "CR888800794"
+        },
+        {
+          "agent_name": "Saba Naaz",
+          "ticket_no": "CR888803038"
+        },
+        {
+          "agent_name": "Harjot Singh02",
+          "ticket_no": "CR888805694"
+        },
+        {
+          "agent_name": "Gurpreet Singh70",
+          "ticket_no": "CR888806023"
+        },
+        {
+          "agent_name": "Mahindra Naidu",
+          "ticket_no": "CR888806565"
+        },
+        {
+          "agent_name": "Manpreet Kaur14",
+          "ticket_no": "CR888807752"
+        },
+        {
+          "agent_name": "Chetan Sood",
+          "ticket_no": "CR888808536"
+        },
+        {
+          "agent_name": "Nagason Rajan",
+          "ticket_no": "CR888809172"
+        },
+        {
+          "agent_name": "Mohd Khan04",
+          "ticket_no": "CR888810863"
+        },
+        {
+          "agent_name": "Neha Girotra",
+          "ticket_no": "CR888811082"
+        },
+        {
+          "agent_name": "Ayushi Manchanda",
+          "ticket_no": "CR888812031"
+        },
+        {
+          "agent_name": "Kashish Bajaj",
+          "ticket_no": "CR888815685"
+        },
+        {
+          "agent_name": "Ameer Sayyed",
+          "ticket_no": "CR888815810"
+        },
+        {
+          "agent_name": "Chetan Sood",
+          "ticket_no": "CR888817662"
+        },
+        {
+          "agent_name": "Nagason Rajan",
+          "ticket_no": "CR888818242"
+        },
+        {
+          "agent_name": "Vinit Saini",
+          "ticket_no": "CR888818691"
+        },
+        {
+          "agent_name": "Mohd Ansari",
+          "ticket_no": "CR888818884"
+        },
+        {
+          "agent_name": "Sachin Sharma02",
+          "ticket_no": "CR888819495"
+        },
+        {
+          "agent_name": "Abhishek Thakur01",
+          "ticket_no": "CR888823202"
+        },
+        {
+          "agent_name": "Sachin Sharma02",
+          "ticket_no": "CR888824040"
+        },
+        {
+          "agent_name": "Saba Naaz",
+          "ticket_no": "CR888824464"
+        },
+        {
+          "agent_name": "Ankush Bisht",
+          "ticket_no": "CR888825012"
+        },
+        {
+          "agent_name": "Rahul Narotra",
+          "ticket_no": "CR888825438"
+        },
+        {
+          "agent_name": "Himani Thakur",
+          "ticket_no": "CR888826117"
+        },
+        {
+          "agent_name": "Nagason Rajan",
+          "ticket_no": "CR888826125"
+        },
+        {
+          "agent_name": "Ankita Sandal",
+          "ticket_no": "CR888826797"
+        },
+        {
+          "agent_name": "Rejo Thomas",
+          "ticket_no": "CR888827238"
+        },
+        {
+          "agent_name": "Amanpreet Vilkhu",
+          "ticket_no": "CR888827921"
+        },
+        {
+          "agent_name": "Saurabh Patil",
+          "ticket_no": "CR888829810"
+        },
+        {
+          "agent_name": "Shivani Singh03",
+          "ticket_no": "CR888832405"
+        },
+        {
+          "agent_name": "Ganesh Zinge",
+          "ticket_no": "CR888833463"
+        },
+        {
+          "agent_name": "Rhea Ahluwalia",
+          "ticket_no": "CR888833550"
+        },
+        {
+          "agent_name": "Vikas Solanki",
+          "ticket_no": "CR888838153"
+        },
+        {
+          "agent_name": "Akshay Chika",
+          "ticket_no": "CR888844571"
+        },
+        {
+          "agent_name": "Akshay Chika",
+          "ticket_no": "CR888845724"
+        },
+        {
+          "agent_name": "Chetan Sood",
+          "ticket_no": "CR888847471"
+        },
+        {
+          "agent_name": "S Dhiman",
+          "ticket_no": "CR888848366"
+        },
+        {
+          "agent_name": "Ashitha Ezhuthachan",
+          "ticket_no": "CR888848843"
+        },
+        {
+          "agent_name": "Pravesh Joshi",
+          "ticket_no": "CR888854499"
+        },
+        {
+          "agent_name": "Ajinkya Ughade",
+          "ticket_no": "CR888857317"
+        },
+        {
+          "agent_name": "Shweta Dhiman",
+          "ticket_no": "CR888860124"
+        },
+        {
+          "agent_name": "Hitesh Bisht",
+          "ticket_no": "CR888861994"
+        },
+        {
+          "agent_name": "Tanu Dhiman",
+          "ticket_no": "CR888863069"
+        },
+        {
+          "agent_name": "Shivani Singh03",
+          "ticket_no": "CR888864902"
+        },
+        {
+          "agent_name": "Mukul Chaudhary",
+          "ticket_no": "CR888869278"
+        },
+        {
+          "agent_name": "Tanu Dhiman",
+          "ticket_no": "CR888869384"
+        },
+        {
+          "agent_name": "Sumit Kumar56",
+          "ticket_no": "CR888871112"
+        },
+        {
+          "agent_name": "Pravesh Joshi",
+          "ticket_no": "CR888876030"
+        },
+        {
+          "agent_name": "Aprajeeta Bharti",
+          "ticket_no": "CR888877656"
+        },
+        {
+          "agent_name": "Kiran B",
+          "ticket_no": "CR888878385"
+        },
+        {
+          "agent_name": "Saba Naaz",
+          "ticket_no": "CR888882595"
+        },
+        {
+          "agent_name": "Afreen Khan",
+          "ticket_no": "CR888884039"
+        },
+        {
+          "agent_name": "Abhishek Mattoo",
+          "ticket_no": "CR888888681"
+        },
+        {
+          "agent_name": "Sumit Kumar56",
+          "ticket_no": "CR888892122"
+        },
+        {
+          "agent_name": "Diwakar Vipin",
+          "ticket_no": "CR888892807"
+        },
+        {
+          "agent_name": "Sanjay Rajpal",
+          "ticket_no": "CR888892836"
+        },
+        {
+          "agent_name": "Shiva Kumar",
+          "ticket_no": "CR888895275"
+        },
+        {
+          "agent_name": "Manju Chavan",
+          "ticket_no": "CR888899342"
+        },
+        {
+          "agent_name": "Dheeraj Chopra",
+          "ticket_no": "CR888902992"
+        },
+        {
+          "agent_name": "Dheeraj Chopra",
+          "ticket_no": "CR888903712"
+        },
+        {
+          "agent_name": "Pravesh Joshi",
+          "ticket_no": "CR888907478"
+        },
+        {
+          "agent_name": "S Dhiman",
+          "ticket_no": "CR888917286"
+        },
+        {
+          "agent_name": "Madhu Pillai",
+          "ticket_no": "CR888918332"
+        },
+        {
+          "agent_name": "Akshay Chika",
+          "ticket_no": "CR888920763"
+        },
+        {
+          "agent_name": "Neha Girotra",
+          "ticket_no": "CR888926351"
+        },
+        {
+          "agent_name": "Faheem Khan",
+          "ticket_no": "CR888926443"
+        },
+        {
+          "agent_name": "Ankit Sharma24",
+          "ticket_no": "CR888927718"
+        },
+        {
+          "agent_name": "Sandeep Saini",
+          "ticket_no": "CR888933016"
+        },
+        {
+          "agent_name": "Ankita Sandal",
+          "ticket_no": "CR888937745"
+        },
+        {
+          "agent_name": "Shweta Dhiman",
+          "ticket_no": "CR888939297"
+        },
+        {
+          "agent_name": "Menuddin Shaikh",
+          "ticket_no": "CR888939543"
+        },
+        {
+          "agent_name": "Menuddin Shaikh",
+          "ticket_no": "CR888946715"
+        },
+        {
+          "agent_name": "Aritra Chakraborty",
+          "ticket_no": "CR888948120"
+        },
+        {
+          "agent_name": "Ritvik Verma",
+          "ticket_no": "CR888954839"
+        },
+        {
+          "agent_name": "Raj Patil",
+          "ticket_no": "CR888978169"
+        },
+        {
+          "agent_name": "Nidhi Singh01",
+          "ticket_no": "CR888988001"
+        },
+        {
+          "agent_name": "Afreen Khan",
+          "ticket_no": "CR888998301"
+        },
+        {
+          "agent_name": "Ashitha Ezhuthachan",
+          "ticket_no": "CR889006103"
+        },
+        {
+          "agent_name": "Dheeraj Chopra",
+          "ticket_no": "CR889050833"
+        }
+      ]
+    },
+    {
+      "folder_names_data": [
+        "20200604101",
+        "20200604102",
+        "20200604103",
+        "20200604104",
+        "20200604105",
+        "20200604106"
+      ]
+    }
+  ],
+  "end_date": [
+    "Thu, 23 Apr 2020 00:00:00 GMT"
+  ],
+  "start_date": [
+    "Sun, 19 Jan 2020 00:00:00 GMT"
+  ],
+  "success": [
+    true
+  ],
+  "countries": [
+    "Florida",
+    "Big South",
+    "Keystone",
+    "WNE",
+    "Freedom",
+    "TwinCity",
+    "Beltway",
+    "GBR",
+    "Portland",
+    "Houston",
+    "XHS",
+    "Mountain West",
+    "California",
+    "Seattle"
+  ],
+
+  "data2": [
+    {
+      "call_recording_disclosure_data": [
+        {
+          "label": "Beltway",
+          "y": 83
+        },
+        {
+          "label": "Big South",
+          "y": 100
+        },
+        {
+          "label": "California",
+          "y": 93
+        },
+        {
+          "label": "Florida",
+          "y": 93
+        },
+        {
+          "label": "Freedom",
+          "y": 93
+        },
+        {
+          "label": "GBR",
+          "y": 93
+        },
+        {
+          "label": "Houston",
+          "y": 88
+        },
+        {
+          "label": "Keystone",
+          "y": 98
+        },
+        {
+          "label": "Mountain West",
+          "y": 93
+        },
+        {
+          "label": "Portland",
+          "y": 95
+        },
+        {
+          "label": "Seattle",
+          "y": 98
+        },
+        {
+          "label": "TwinCity",
+          "y": 83
+        },
+        {
+          "label": "WNE",
+          "y": 98
+        },
+        {
+          "label": "XHS",
+          "y": 85
+        }
+      ]
+    },
+    {
+      "call_opening_compliance_data": [
+        {
+          "label": "Beltway",
+          "y": 74
+        },
+        {
+          "label": "Big South",
+          "y": 65
+        },
+        {
+          "label": "California",
+          "y": 78
+        },
+        {
+          "label": "Florida",
+          "y": 66
+        },
+        {
+          "label": "Freedom",
+          "y": 78
+        },
+        {
+          "label": "GBR",
+          "y": 79
+        },
+        {
+          "label": "Houston",
+          "y": 62
+        },
+        {
+          "label": "Keystone",
+          "y": 80
+        },
+        {
+          "label": "Mountain West",
+          "y": 78
+        },
+        {
+          "label": "Portland",
+          "y": 65
+        },
+        {
+          "label": "Seattle",
+          "y": 71
+        },
+        {
+          "label": "TwinCity",
+          "y": 72
+        },
+        {
+          "label": "WNE",
+          "y": 79
+        },
+        {
+          "label": "XHS",
+          "y": 74
+        }
+      ]
+    },
+    {
+      "empathy_or_sympathy_data": [
+        {
+          "label": "Beltway",
+          "y": 66,
+          "color": "#7adb99"
+        },
+        {
+          "label": "Big South",
+          "y": 93,
+          "color": "#7adb99"
+        },
+        {
+          "label": "California",
+          "y": 80,
+          "color": "#7adb99"
+        },
+        {
+          "label": "Florida",
+          "y": 76,
+          "color": "#7adb99"
+        },
+        {
+          "label": "Freedom",
+          "y": 85,
+          "color": "#7adb99"
+        },
+        {
+          "label": "GBR",
+          "y": 74,
+          "color": "#7adb99"
+        },
+        {
+          "label": "Houston",
+          "y": 77,
+          "color": "#7adb99"
+        },
+        {
+          "label": "Keystone",
+          "y": 75,
+          "color": "#7adb99"
+        },
+        {
+          "label": "Mountain West",
+          "y": 83,
+          "color": "#7adb99"
+        },
+        {
+          "label": "Portland",
+          "y": 78,
+          "color": "#7adb99"
+        },
+        {
+          "label": "Seattle",
+          "y": 91,
+          "color": "#7adb99"
+        },
+        {
+          "label": "TwinCity",
+          "y": 70,
+          "color": "#7adb99"
+        },
+        {
+          "label": "WNE",
+          "y": 74,
+          "color": "#7adb99"
+        },
+        {
+          "label": "XHS",
+          "y": 74,
+          "color": "#7adb99"
+        }
+      ]
+    },
+    {
+      "other_lob_check_data": [
+        {
+          "label": "Beltway",
+          "y": 30
+        },
+        {
+          "label": "Big South",
+          "y": 13
+        },
+        {
+          "label": "California",
+          "y": 30
+        },
+        {
+          "label": "Florida",
+          "y": 15
+        },
+        {
+          "label": "Freedom",
+          "y": 35
+        },
+        {
+          "label": "GBR",
+          "y": 15
+        },
+        {
+          "label": "Houston",
+          "y": 21
+        },
+        {
+          "label": "Keystone",
+          "y": 18
+        },
+        {
+          "label": "Mountain West",
+          "y": 20
+        },
+        {
+          "label": "Portland",
+          "y": 15
+        },
+        {
+          "label": "Seattle",
+          "y": 18
+        },
+        {
+          "label": "TwinCity",
+          "y": 16
+        },
+        {
+          "label": "WNE",
+          "y": 12
+        },
+        {
+          "label": "XHS",
+          "y": 3
+        }
+      ]
+    },
+    {
+      "cancel_tech_visit_data": [
+        {
+          "label": "Beltway",
+          "y": 35
+        },
+        {
+          "label": "Big South",
+          "y": 49
+        },
+        {
+          "label": "California",
+          "y": 40
+        },
+        {
+          "label": "Florida",
+          "y": 52
+        },
+        {
+          "label": "Freedom",
+          "y": 58
+        },
+        {
+          "label": "GBR",
+          "y": 49
+        },
+        {
+          "label": "Houston",
+          "y": 49
+        },
+        {
+          "label": "Keystone",
+          "y": 43
+        },
+        {
+          "label": "Mountain West",
+          "y": 45
+        },
+        {
+          "label": "Portland",
+          "y": 48
+        },
+        {
+          "label": "Seattle",
+          "y": 42
+        },
+        {
+          "label": "TwinCity",
+          "y": 47
+        },
+        {
+          "label": "WNE",
+          "y": 34
+        },
+        {
+          "label": "XHS",
+          "y": 53
+        }
+      ]
+    },
+    {
+      "self_help_xfinity_my_account_app_data": [
+        {
+          "label": "Beltway",
+          "y": 49
+        },
+        {
+          "label": "Big South",
+          "y": 42
+        },
+        {
+          "label": "California",
+          "y": 43
+        },
+        {
+          "label": "Florida",
+          "y": 42
+        },
+        {
+          "label": "Freedom",
+          "y": 45
+        },
+        {
+          "label": "GBR",
+          "y": 32
+        },
+        {
+          "label": "Houston",
+          "y": 24
+        },
+        {
+          "label": "Keystone",
+          "y": 38
+        },
+        {
+          "label": "Mountain West",
+          "y": 35
+        },
+        {
+          "label": "Portland",
+          "y": 43
+        },
+        {
+          "label": "Seattle",
+          "y": 37
+        },
+        {
+          "label": "TwinCity",
+          "y": 42
+        },
+        {
+          "label": "WNE",
+          "y": 39
+        },
+        {
+          "label": "XHS",
+          "y": 19
+        }
+      ]
+    },
+    {
+      "call_closing_data": [
+        {
+          "label": "Beltway",
+          "y": 69
+        },
+        {
+          "label": "Big South",
+          "y": 80
+        },
+        {
+          "label": "California",
+          "y": 78
+        },
+        {
+          "label": "Florida",
+          "y": 64
+        },
+        {
+          "label": "Freedom",
+          "y": 75
+        },
+        {
+          "label": "GBR",
+          "y": 69
+        },
+        {
+          "label": "Houston",
+          "y": 77
+        },
+        {
+          "label": "Keystone",
+          "y": 78
+        },
+        {
+          "label": "Mountain West",
+          "y": 80
+        },
+        {
+          "label": "Portland",
+          "y": 65
+        },
+        {
+          "label": "Seattle",
+          "y": 74
+        },
+        {
+          "label": "TwinCity",
+          "y": 70
+        },
+        {
+          "label": "WNE",
+          "y": 81
+        },
+        {
+          "label": "XHS",
+          "y": 40
+        }
+      ]
+    },
+    {
+      "behavioural_sentiment_data": [
+        {
+          "label": "positive",
+          "y": 32
+        },
+        {
+          "label": "negative",
+          "y": 12
+        },
+        {
+          "label": "neutral",
+          "y": 56
+        }
+      ]
+    }
+  ]
+}
