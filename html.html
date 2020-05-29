@@ -1,0 +1,126 @@
+<app-ci-nav-bar></app-ci-nav-bar>
+
+<body>
+    <div id="main-div">
+        <section>
+            <div class="container-fluid">
+                <div class="box">
+                    <div class="form-group pt-3 ">
+                        <form [formGroup]="agentFilters" (ngSubmit)="onSubmit()">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="row">
+
+                                        <div class="col-md-4">
+                                            <label class="date-block-ACM ACM-label">Date Range</label>
+                                            <input type="text" placeholder="choose date range" name="daterangeInput"
+                                                daterangepicker [options]="options" 
+                                                (selected)="selectedDate($event, daterange)" 
+                                                class="form-control" />
+                                        </div>
+                                        <div class="col-md-3">
+                                            <label class="ACM-label">Select Process</label>
+                                            <angular2-multiselect [data]="dropdownList" [(ngModel)]="selectedItems"
+                                                [settings]="dropdownSettings" (onSelect)="onItemSelect($event)"
+                                                (onDeSelect)="OnItemDeSelect($event)"
+                                                (onSelectAll)="onSelectAll($event)"
+                                                (onDeSelectAll)="onDeSelectAll($event)" formControlName="region">
+                                            </angular2-multiselect>
+
+                                        </div>
+                                        <div class="col-md-5">
+                                            <label class="date-block-ACM ACM-label">Percentage %</label>
+                                            <input class="percentage-min" type="number" min="0" max="100"
+                                                placeholder="min" formControlName="permin">
+                                            <input class="percentage-max" type="number" min="0" max="100"
+                                                placeholder="max" formControlName="permax">
+
+
+                                            <button class="btn btn-primary" type="submit">Submit</button>
+                                        </div>
+
+                                    </div>
+                                </div>
+
+                            </div>
+                        </form>
+                    </div>
+
+
+                    <div class="row">
+                        <div class="col-md-4 col-scroll">
+                            <div class="card">
+                                <div class="card-body">
+                                    <p>Call Opening Compliance %</p>
+                                    <div id="callOpeningCompliance" style="height:200px; width: 100%;"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-scroll">
+                            <div class="card">
+                                <div class="card-body">
+                                    <p>Call Recording DisClosure %</p>
+                                    <div id="callRecordingDisClosure" style="height: 200px; width: 100%;"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-scroll">
+                            <div class="card">
+                                <div class="card-body">
+                                    <p>Other LOB Check %</p>
+                                    <div id="otherLOBCheck" style="height: 200px; width: 100%;"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row pt-4">
+                        <div class="col-md-4 col-scroll">
+                            <div class="card">
+                                <div class="card-body">
+                                    <p>Self Help Option %</p>
+                                    <div id="selfHelpOption" style="height: 200px; width: 100%;"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-scroll">
+                            <div class="card">
+                                <div class="card-body">
+                                    <p>Cancel Tech Visit %</p>
+                                    <div id="cancelTechVisit" style="height: 200px; width: 100%;"></div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 col-scroll">
+                            <div class="card">
+                                <div class="card-body">
+                                    <p>Call Closing Compliance %</p>
+                                    <div id="callClosingCompliance" style="height: 200px; width: 100%;"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row pt-4 pb-5">
+                        <div class="col-md-9">
+                            <div class="card">
+                                <div class="card-body">
+                                    <p>Empathy / Sympathy %</p>
+                                    <div id="empathySympathy" style="height: 300px; width: 100%;"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <div class="card-body">
+                                    <p>Overall Behavioural Sentiments %</p>
+                                    <div id="overallBehaviouralSentiments" style="height: 275px; width: 100%;">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</body>
